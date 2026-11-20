@@ -8,7 +8,7 @@ Matanzas, Cuba | [johnmarlonperez@icloud.com](mailto:johnmarlonperez@icloud.com)
 
 ## Resumen profesional
 
-Ingeniero de Software con más de 4 años de experiencia desarrollando software con Python y JavaScript, primero de forma independiente (desde 2022) y desde 2026 en Desoft, División Matanzas. Trabajo en desarrollo backend y APIs, módulos empresariales en Odoo (Python, vistas XML y frontend con OWL), automatización y bots de Telegram, procesamiento multimedia con FFmpeg, bases de datos (PostgreSQL, SQLite, MongoDB) e integración de modelos de lenguaje (API de Anthropic, tool use, RAG, MCP). He construido soluciones usadas por usuarios reales, en solitario y en equipo, con pruebas automatizadas, Docker y control de versiones con Git/GitHub.
+Ingeniero de Software con más de 4 años de experiencia desarrollando software con Python y JavaScript, primero de forma independiente (desde 2022) y desde 2026 en Desoft, División Matanzas. Trabajo en desarrollo backend y APIs, módulos empresariales en Odoo (Python, vistas XML y frontend con OWL), automatización y bots de Telegram, procesamiento multimedia con FFmpeg, bases de datos (PostgreSQL, SQLite, MongoDB) e integración de modelos de lenguaje (API de Anthropic, tool use, RAG, MCP). Trabajo con agentic coding: orquesto agentes de IA a partir de especificaciones, reviso el código generado y lo valido con pruebas automatizadas. He construido soluciones usadas por usuarios reales, en solitario y en equipo, con pruebas automatizadas, Docker y control de versiones con Git/GitHub.
 
 ## Experiencia profesional
 
@@ -95,9 +95,9 @@ Tesis: Software para la gestión del soporte post-venta de productos en Desoft D
 - **Lenguajes y APIs:** Python, JavaScript, SQL, HTML, CSS, XML; FastAPI, ExpressJS, REST, JWT, asyncio, OpenAPI/Swagger
 - **Odoo 18 y datos:** ORM, XML, OWL, QWeb, ACL, js_class, widgets, controladores; PostgreSQL, MongoDB/Motor, SQLite; pandas, SQL analítico, calidad de datos
 - **Bots, multimedia y geolocalización:** Telegram API, Telethon, python-telegram-bot, pagos y suscripciones; FFmpeg/FFprobe, SRT/ASS; geocodificación, OpenStreetMap, latitud/longitud
-- **IA y LLMs:** API de Anthropic, prompt engineering, evaluación de prompts, tool use, RAG, MCP, prompt caching, agentes y flujos; Claude Code, Computer Use, OpenCode, IA asistida
+- **IA aplicada y agentic coding:** API de Anthropic, tool use, RAG, MCP; orquestación de agentes y desarrollo guiado por especificaciones con Claude Code y OpenCode; AGENTS.md, evaluación de prompts y revisión de código generado
 - **DevOps, calidad y Git:** Docker, Compose, GitHub Actions, Linux, Bash, systemd; pytest, pytest-asyncio, pruebas de integración, QA determinista, pruebas de módulos Odoo; Git, GitHub, PRs, issues, GitHub Projects, Conventional Commits
-- **Metodologías y documentación:** Scrum, RUP, XP, UML, patrones de diseño, Visual Paradigm; README, guías de instalación y operación, AGENTS.md y especificaciones.
+- **Métodos y documentación:** Scrum, RUP, XP, UML, patrones de diseño, Visual Paradigm; README, guías de instalación y operación y especificaciones.
 
 ## Idiomas
 

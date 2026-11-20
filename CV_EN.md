@@ -8,7 +8,7 @@ Matanzas, Cuba | [johnmarlonperez@icloud.com](mailto:johnmarlonperez@icloud.com)
 
 ## Professional Summary
 
-Software Engineer with 4+ years of experience building software with Python and JavaScript, working independently since 2022 and at Desoft, Matanzas Division, since 2026. Experienced in backend development and APIs, Odoo business modules (Python, XML views, and OWL frontend), Telegram bots and automation, multimedia processing with FFmpeg, databases (PostgreSQL, SQLite, MongoDB), and LLM integrations (Anthropic API, tool use, RAG, MCP). Built solutions used by real users, independently and as part of a team, using automated testing, Docker, and Git/GitHub.
+Software Engineer with 4+ years of experience building software with Python and JavaScript, working independently since 2022 and at Desoft, Matanzas Division, since 2026. Experienced in backend development and APIs, Odoo business modules (Python, XML views, and OWL frontend), Telegram bots and automation, multimedia processing with FFmpeg, databases (PostgreSQL, SQLite, MongoDB), and LLM integrations (Anthropic API, tool use, RAG, MCP). I work with agentic coding: I orchestrate AI agents from specifications, review the generated code, and validate it with automated tests. Built solutions used by real users, independently and as part of a team, using automated testing, Docker, and Git/GitHub.
 
 ## Professional Experience
 
@@ -95,9 +95,9 @@ Thesis: Software for managing after-sales product support at Desoft, Matanzas Di
 - **Languages and APIs:** Python, JavaScript, SQL, HTML, CSS, XML; FastAPI, ExpressJS, REST, JWT, asyncio, OpenAPI/Swagger
 - **Odoo 18 and data:** ORM, XML, OWL, QWeb, ACLs, js_class, widgets, controllers; PostgreSQL, MongoDB/Motor, SQLite; pandas, analytical SQL, data quality
 - **Bots, multimedia, and geolocation:** Telegram API, Telethon, python-telegram-bot, payments and subscriptions; FFmpeg/FFprobe, SRT/ASS; geocoding, OpenStreetMap, latitude/longitude
-- **AI and LLMs:** Anthropic API, prompt engineering and evaluation, tool use, RAG, MCP, prompt caching, agents and workflows; Claude Code, Computer Use, OpenCode, AI-assisted development
+- **Applied AI, LLMs, and agentic coding:** Anthropic API, tool use, RAG, MCP, prompt caching; agent orchestration and spec-driven development with Claude Code, OpenCode, and Computer Use; AGENTS.md, prompt evaluation, and review of generated code
 - **DevOps, quality, and Git:** Docker, Compose, GitHub Actions, Linux, Bash, systemd; pytest, pytest-asyncio, integration testing, deterministic QA, Odoo module testing; Git, GitHub, PRs, issues, GitHub Projects, Conventional Commits
-- **Methods and documentation:** Scrum, RUP, XP, UML, design patterns, Visual Paradigm; READMEs, installation and operations guides, AGENTS.md, and specifications.
+- **Methods and documentation:** Scrum, RUP, XP, UML, design patterns, Visual Paradigm; READMEs, installation and operations guides, and specifications.
 
 ## Languages
 
